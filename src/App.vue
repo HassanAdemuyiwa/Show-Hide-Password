@@ -9,8 +9,12 @@
         </button>
       </div>
     </div>
-    <a class="credits" target="_blank" href="#">
-      Show/hide password with emoji with Vue
+    <a
+      class="credits"
+      target="_blank"
+      href="https://vue-show-hide-password.netlify.app/"
+    >
+      Show/hide password with emoji built with Vue
     </a>
   </div>
 </template>
