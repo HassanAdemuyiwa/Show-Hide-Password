@@ -9,11 +9,7 @@
         </button>
       </div>
     </div>
-    <a
-      class="credits"
-      target="_blank"
-      href="https://dribbble.com/shots/4505888-Show-hide-password-with-emoji"
-    >
+    <a class="credits" target="_blank" href="#">
       Show/hide password with emoji with Vue
     </a>
   </div>
